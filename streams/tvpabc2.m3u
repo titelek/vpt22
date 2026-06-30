@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP ABC 2 stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399727" tvg-name="TVP ABC 2" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP ABC 2
+https://rr-merk3.cdn.tvp.pl/token/video/live/57181933/20260630/2897796246/IIRakRgE_k0mP5TeDixVVxSBx_5wAtvI5ft6rWBnwwe0DcGe5W4hL4_zwbbSLuKsap-8RKtsNgDRCnEHTz1JLY1iL0P7D1pnlh40xRivP9GUV-FUltVb-n43BXg2tAqbO9Ln88ScBFXa-8cojNRM8tBl1XTpZuUJYijVvmUH-Sk/156/master.m3u8

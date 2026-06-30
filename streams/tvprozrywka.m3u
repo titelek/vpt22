@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP Rozrywka stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399724" tvg-name="TVP Rozrywka" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP Rozrywka
+https://rr-merk3.cdn.tvp.pl/token/video/live/51696825/20260630/2897796246/iOUOZVHWm1a5gyQ1UhzvqaG1B6_7EGkpDnlqc5H3Cs49-lTWxydZZz7odp63H6oS5CVBjEl55gGU5AlKkSMYR7inSEuKfKVXvMNmVI4f1qw0xDbxqE5UgsDZsWvxEZsgcpiO1CNHIof780zuexcV0WAgBhDr-f16p2J9Ztt3J94/156/master.m3u8

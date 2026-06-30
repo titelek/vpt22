@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP Nauka stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399722" tvg-name="TVP Nauka" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP Nauka
+https://rr-merk3.cdn.tvp.pl/token/video/live/71345993/20260630/2897796246/wITfD40fOUR9FCsWw9aSlieQf99SnRAoi3rP2kgoKCgV-lViFzbkyas1RiUsji-crMkaFsUTzJJ_3lPdhvIcfTIzzsjRxRRp8Q-Jillfja47-Xqkq7pOOerx388cshuuJXPAHxUdWC62IUbyNWoOqKvp6ygPVU03jIHaanlxlTc/156/master.m3u8

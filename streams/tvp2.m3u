@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP 2 stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399698" tvg-name="TVP 2" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP 2
+https://rr-merk3.cdn.tvp.pl/token/video/live/51696811/20260630/2897796246/UY1TcOLqNm-rmxLbYloBmSzbryZBoPLZzUDCMFjuvufbWI07y5vtyK2mdniXATxsMQLklRUejdtxO2Mt1jmodwy9E797FtNx51cJOPZoeDDPA7w7i-ofLp4_bBIvGWVjpdvyjzZnYkZWgERueVEohUiCx4FmL6J-Hyo7A3QOQos/156/master.m3u8

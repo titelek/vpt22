@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP Kultura stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399700" tvg-name="TVP Kultura" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP Kultura
+https://rr-merk3.cdn.tvp.pl/token/video/live/51696822/20260630/2897796246/BpmUFYYM175Pk3EUZNLNASfWHpidNSh3Gc7iJBnJeSR3DwxxAyaI5etohs6I_k4MgpIheEwEodeotypwcnARvT-s6A-wDF8zvO2JD5a_2B0uD4tqZemoirZ5b6hBdJFDH9GoQXyNFYtP58sGfs8gXIv037kqpC4Z3vWUkVI1zSw/156/master.m3u8

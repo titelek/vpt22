@@ -1,2 +1,4 @@
 #EXTM3U
-# TVP Dokument stream unavailable — will retry next run
+
+#EXTINF:-1 tvg-id="399721" tvg-name="TVP Dokument" tvg-logo="https://s.tvp.pl/files/tvp.pl/images/vod-logo-header.png" group-title="Polska",TVP Dokument
+https://rr-merk3.cdn.tvp.pl/token/video/live/53795159/20260630/2897796246/XJT9r4dygeXwtWRJEAczZZFx3_Qw7NxpQrLhwmDGw6RvT8gvGPl5hJHO2e1fk8zlAZvYq1lY-78A3X2-Q9cBc-Z1MlHWPVj0Z2oMUaka_iUMran8Di5y1nOZ239-ZYR6ntFU_SRXvac7nkzsRGJzgcVNoQ7lRKv10y27H6DPOE4/156/master.m3u8
